@@ -10,7 +10,7 @@
 - 🎯 Goal: Become a professional **Frontend / Full Stack Developer**  
 - 💼 Actively looking for **Internships or Junior Developer roles**  
 - 🧠 I love building small projects & learning step-by-step  
-- 📧 Email: **your-email-here@gmail.com**
+- 📧 Email: **saadali32400@gmail.com**
 
 ---
 
