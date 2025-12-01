@@ -16,8 +16,17 @@
 
 ### 🛠️ Tech Stack
 
+### 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+
 **Languages & Tools:**  
-! JavaScript (ES6+) (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- JavaScript (ES6+) 
 - React.js  
 - Node.js (Basics)  
 - HTML, CSS, Tailwind  
