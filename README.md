@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=saad-innovation&color=blue)
+
 <h1 align="center">Hi, I'm Saad Ali 👋</h1>
 
 <h3 align="center">💻 JavaScript | React | Frontend Developer (Beginner to Intermediate)</h3>
@@ -44,8 +46,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saad-innovation&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-innovation&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=saad-innovation&theme=tokyonight" height="180"/>
+ 
 </p>
 
 ---
