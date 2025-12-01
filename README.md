@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 **Languages & Tools:**  
-- JavaScript (ES6+)  
+! JavaScript (ES6+) (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - React.js  
 - Node.js (Basics)  
 - HTML, CSS, Tailwind  
