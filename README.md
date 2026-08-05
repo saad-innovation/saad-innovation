@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 CS Student | University of Mianwali  
+- 🎓 CS Graduate | University of Mianwali  
 - 🌱 Currently learning **JavaScript, React & Node.js**  
 - 🎯 Goal: Become a professional **Frontend / Full Stack Developer**  
 - 💼 Actively looking for **Internships or Junior Developer roles**  
