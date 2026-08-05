@@ -58,8 +58,8 @@ I love solving coding problems and improving my logic skills every day.
 ---
 
 ### 🤝 Let's Connect  
-- LinkedIn: *https://www.linkedin.com/in/saad-ali-750778286/*  
-- GitHub: *github.com/saad-innovation*  
+- LinkedIn: *https://www.linkedin.com/in/saad-innovation/*  
+- GitHub: *https://github.com/saad-innovation/*  
 
 ---
 
