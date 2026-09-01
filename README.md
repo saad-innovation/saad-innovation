@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi, I'm Saad Ali 👋</h1>
 
-<h3 align="center">💻 JavaScript | React | Frontend Developer (Beginner to Intermediate)</h3>
+<h3 align="center">💻 JavaScript | React | Frontend Developer</h3>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 CS Graduate | University of Mianwali  
-- 🌱 Currently learning **JavaScript, React & Node.js**  
+- 🎓 CS Student (Class of 2026) | University of Mianwali  
+- 🌐 **Interactive Portfolio:** Check out my [3D Developer Card](https://saad-innovation.github.io/Developer-card/) ✨
+- 🌱 Currently learning **JavaScript, React, Redux Toolkit & Node.js**  
 - 🎯 Goal: Become a professional **Frontend / Full Stack Developer**  
 - 💼 Actively looking for **Internships or Junior Developer roles**  
 - 🧠 I love building small projects & learning step-by-step  
@@ -21,23 +22,25 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 **Languages & Tools:**  
 - JavaScript (ES6+) 
-- React.js  
-- Node.js (Basics)  
-- HTML, CSS, Tailwind  
+- React.js & Redux Toolkit  
+- Node.js & Express.js (Basics)  
+- HTML, CSS, Tailwind CSS  
 - Git & GitHub  
 - VS Code  
 
 ---
 
 ### 📌 My Focus Areas
-- 🔹 JavaScript Projects  
-- 🔹 React UI Components  
+- 🔹 Frontend UI/UX & Single-Page Applications
+- 🔹 Data Structures & Algorithms (LeetCode)
 - 🔹 API Integration  
 - 🔹 Problem Solving  
 
@@ -47,19 +50,18 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=saad-innovation&theme=tokyonight" height="180"/>
- 
 </p>
 
 ---
 
 ### ⚡ Fun fact  
-I love solving coding problems and improving my logic skills every day.
+I love solving algorithmic coding problems and improving my logic skills every day.
 
 ---
 
 ### 🤝 Let's Connect  
-- LinkedIn: *https://www.linkedin.com/in/saad-innovation/*  
-- GitHub: *https://github.com/saad-innovation/*  
+- 🌐 **Portfolio:** [saad-innovation.github.io/Developer-card/](https://saad-innovation.github.io/Developer-card/)  
+- 💼 **LinkedIn:** [linkedin.com/in/saad-innovation/](https://www.linkedin.com/in/saad-innovation/)  
+- 🐙 **GitHub:** [github.com/saad-innovation/](https://github.com/saad-innovation/)  
 
 ---
-
